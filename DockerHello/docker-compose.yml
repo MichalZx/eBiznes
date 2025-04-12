@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  docker-hello:
+    build: .
+    container_name: docker-hello
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: gradle run
