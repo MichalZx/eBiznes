@@ -13,6 +13,8 @@
 
 :white_check_mark: link do dockerhub: [Link do DockerHuba](https://hub.docker.com/repository/docker/miczlx/docker-hello/general)
 
+Kod: DockerHello
+
 **Zadanie 2** Scala
 
 :white_check_mark: 3.0 wymaganie 1
