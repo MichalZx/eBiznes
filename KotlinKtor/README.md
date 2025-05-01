@@ -1,5 +1,11 @@
 # KotlinKtor
 
+## Chat in Discord
+![Chat](Photos/DC_Chat.png)
+
+## Output in terminal
+![Terminal](Photos/Terminal_Chat.png)
+
 This project was created using the [Ktor Project Generator](https://start.ktor.io).
 
 Here are some useful links to get you started:
