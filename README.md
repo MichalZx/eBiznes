@@ -42,3 +42,17 @@ Kod: ScalaPlay
 :x: 5.0 wymaganie 5 
 
 Kod: KotlinKtor
+
+**Zadanie 4** GO
+
+:white_check_mark: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2 
+
+:white_check_mark: 4.0 wymaganie 3
+
+:white_check_mark: 4.5 wymaganie 4 [Link do commita 4.5](https://github.com/MichalZx/eBiznes/commit/f5621b44b81078396b37b7203381f8e1d6db8954)
+
+:x: 5.0 wymaganie 5 
+
+Kod: GO
