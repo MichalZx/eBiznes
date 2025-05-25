@@ -56,3 +56,17 @@ Kod: KotlinKtor
 :x: 5.0 wymaganie 5 
 
 Kod: GO
+
+**Zadanie 5** Frontend
+
+:white_check_mark: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2 
+
+:white_check_mark: 4.0 wymaganie 3  [Link do commita 4.0](https://github.com/MichalZx/eBiznes/commit/20a238da284c074277b2a891f3e1bc38aa5ac96a)
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5 
+
+Kod: Frontend
