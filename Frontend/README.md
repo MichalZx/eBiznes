@@ -1,3 +1,18 @@
+# Frontend
+
+Used server from: task 4 GO
+
+## Main page - product list
+![Product list](Photos/ProductList.png)
+
+## Cart page with shop summary
+![Cart  page](Photos/Cart.png)
+
+## Clicking [Kup i zapłać]
+![Buying](Photos/BuyingProducts.png)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
