@@ -70,3 +70,17 @@ Kod: GO
 :x: 5.0 wymaganie 5 
 
 Kod: Frontend
+
+**Zadanie 6** Testy
+
+:white_check_mark: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2 
+
+:white_check_mark: 4.0 wymaganie 3  [Link do commita 4.0](https://github.com/MichalZx/eBiznes/commit/e1b0c44b33fdc39779465e3bbebacf5f390e8413)
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5 
+
+Kod: Testy
