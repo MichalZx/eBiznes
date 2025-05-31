@@ -1,6 +1,6 @@
 # Testy
 
-Testy serwera GO oraz klienta Frontend
+Tested on server GO and Frontend client with Cypress
 
-## Wyniki testów
+## Tests result
 ![Tests_result](Photos/testingResult.png)
