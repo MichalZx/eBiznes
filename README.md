@@ -84,3 +84,17 @@ Kod: Frontend
 :x: 5.0 wymaganie 5 
 
 Kod: Testy
+
+**Zadanie 7** Sonar
+
+:white_check_mark: 3.0 wymaganie 1
+
+:white_check_mark: 3.5 wymaganie 2 
+
+:white_check_mark: 4.0 wymaganie 3  
+
+:white_check_mark: 4.5 wymaganie 4 [Link do repozytorium 4.5](https://github.com/MichalZx/eBiznes_sonar)
+
+:x: 5.0 wymaganie 5 
+
+Kod: eBiznes_sonar
